@@ -1,0 +1,15 @@
+C:\Users\Junioor\source\repos\LaudoTecnicoWPF\SliderMenuYapimi\bin\Debug\SliderMenuYapimi.exe.config
+C:\Users\Junioor\source\repos\LaudoTecnicoWPF\SliderMenuYapimi\bin\Debug\SliderMenuYapimi.exe
+C:\Users\Junioor\source\repos\LaudoTecnicoWPF\SliderMenuYapimi\bin\Debug\SliderMenuYapimi.pdb
+C:\Users\Junioor\source\repos\LaudoTecnicoWPF\SliderMenuYapimi\obj\Debug\MainWindow.g.cs
+C:\Users\Junioor\source\repos\LaudoTecnicoWPF\SliderMenuYapimi\obj\Debug\App.g.cs
+C:\Users\Junioor\source\repos\LaudoTecnicoWPF\SliderMenuYapimi\obj\Debug\SliderMenuYapimi_MarkupCompile.cache
+C:\Users\Junioor\source\repos\LaudoTecnicoWPF\SliderMenuYapimi\obj\Debug\SliderMenuYapimi_MarkupCompile.lref
+C:\Users\Junioor\source\repos\LaudoTecnicoWPF\SliderMenuYapimi\obj\Debug\MainWindow.baml
+C:\Users\Junioor\source\repos\LaudoTecnicoWPF\SliderMenuYapimi\obj\Debug\SliderMenuYapimi.g.resources
+C:\Users\Junioor\source\repos\LaudoTecnicoWPF\SliderMenuYapimi\obj\Debug\SliderMenuYapimi.Properties.Resources.resources
+C:\Users\Junioor\source\repos\LaudoTecnicoWPF\SliderMenuYapimi\obj\Debug\SliderMenuYapimi.csproj.GenerateResource.Cache
+C:\Users\Junioor\source\repos\LaudoTecnicoWPF\SliderMenuYapimi\obj\Debug\SliderMenuYapimi.csproj.CoreCompileInputs.cache
+C:\Users\Junioor\source\repos\LaudoTecnicoWPF\SliderMenuYapimi\obj\Debug\SliderMenuYapimi.exe
+C:\Users\Junioor\source\repos\LaudoTecnicoWPF\SliderMenuYapimi\obj\Debug\SliderMenuYapimi.pdb
+C:\Users\Junioor\source\repos\LaudoTecnicoWPF\SliderMenuYapimi\obj\Debug\SliderMenuYapimi.csprojResolveAssemblyReference.cache

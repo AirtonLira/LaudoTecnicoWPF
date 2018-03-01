@@ -1,0 +1,24 @@
+﻿<Window x:Class="LaudoTecnicoWPF.Historico"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LaudoTecnicoWPF"
+        mc:Ignorable="d"
+        ResizeMode="CanMinimize"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        TextElement.FontWeight="Regular"
+        TextElement.FontSize="13"
+        TextOptions.TextFormattingMode="Ideal"
+        TextOptions.TextRenderingMode="Auto"
+        Background="{DynamicResource MaterialDesignPaper}"
+        FontFamily="{DynamicResource MaterialDesignFont}"
+        Title="Historico" Height="560.898" Width="887.177">
+    <Grid Margin="0,0,4,1">
+        <Button Content="Abrir laudo" HorizontalAlignment="Left" Margin="44,489,0,0" VerticalAlignment="Top" Width="126" Click="Button_Click"/>
+        <Button Content="Deletar Registro" HorizontalAlignment="Left" Margin="199,489,0,0" VerticalAlignment="Top" Width="147" Click="click_deletar"/>
+        <DataGrid x:Name="griddados" HorizontalAlignment="Left" Height="461" Margin="10,10,0,0" VerticalAlignment="Top" Width="857"/>
+
+    </Grid>
+</Window>
